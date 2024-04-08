@@ -71,8 +71,8 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
     
       # URL Shortener #
 
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'omegalinks.in')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '62ef6faece8c553977a91ddf41b07ce5fc6d6dc8')
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'shrinkforearn.in')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '93525f8861d642559f5e544f19efab2bbdd72073')
 
      # Auto Delete For Group Message (Self Delete) #
 SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 300))
